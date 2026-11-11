@@ -12,7 +12,7 @@
 //   );
 // });
 
-const CACHE = "brickcompare-v1";
+const CACHE = "brickcompare-v2";
 
 self.addEventListener("install", () => self.skipWaiting());
 
